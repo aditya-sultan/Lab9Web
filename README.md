@@ -23,13 +23,13 @@ Kita mulai dengan menambahkan file CSS untuk merubah tampilan agar lebih menarik
 [home.php](https://github.com/aditya-sultan/Lab9Web/blob/master/home.php)
 
 * tampilan home
-![output](https://github.com/aditya-sultan/Lab9Web/blob/master/schreenshoot/home.png)
+![output](https://github.com/aditya-sultan/Lab9Web/blob/master/schreenshoot/home.PNG)
 
 # About
 [about.php](https://github.com/aditya-sultan/Lab9Web/blob/master/about.php)
 
 * output
-![output](https://github.com/aditya-sultan/Lab9Web/blob/master/schreenshoot/about.png)
+![output](https://github.com/aditya-sultan/Lab9Web/blob/master/schreenshoot/about.PNG)
 
 # 2 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
